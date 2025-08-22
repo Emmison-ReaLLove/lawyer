@@ -139,6 +139,15 @@ a:hover {
     padding-left: 10px; }
     ._main_nav .logo-01 h1 {
       font-size: 2rem !important; } }
+      
+      .logo img {
+    max-width: 200px;
+    height: auto;
+}
+     .logo-01 img {
+    max-width: 200px;
+    height: auto;
+}
 
 /* ================================ Slider CSS =============================== */
 .slider {
