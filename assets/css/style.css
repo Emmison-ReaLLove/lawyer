@@ -140,16 +140,7 @@ a:hover {
     ._main_nav .logo-01 h1 {
       font-size: 2rem !important; } }
       
-      .logo img {
-    max-width: 150px;
-    height: auto;
-    border-radius:3px;
-}
-     .logo-01 img {
-    max-width: 150px;
-    height: auto;
-    border-radius:3px;
-}
+    
 
 /* ================================ Slider CSS =============================== */
 .slider {
@@ -225,11 +216,19 @@ a:hover {
 
 .logo-01 {
   position: absolute;
-  max-width: 150px;
-    height: auto;
-    border-radius:3px;
   font-size: 25px;
   color: #fff; }
+  
+  .logo img {
+    max-width: 150px;
+    height: auto;
+    border-radius:3px;
+}
+     .logo-01 img {
+    max-width: 150px;
+    height: auto;
+    border-radius:3px;
+}
   @media screen and (min-width: 768px) {
     .logo-01 {
       display: none; } }
