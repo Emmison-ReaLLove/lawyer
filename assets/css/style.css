@@ -143,10 +143,12 @@ a:hover {
       .logo img {
     max-width: 200px;
     height: auto;
+    border-radius:3px;
 }
      .logo-01 img {
     max-width: 200px;
     height: auto;
+    border-radius:3px;
 }
 
 /* ================================ Slider CSS =============================== */
