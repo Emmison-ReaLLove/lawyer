@@ -141,12 +141,12 @@ a:hover {
       font-size: 2rem !important; } }
       
       .logo img {
-    max-width: 50px;
+    max-width: 150px;
     height: auto;
     border-radius:3px;
 }
      .logo-01 img {
-    max-width: 50px;
+    max-width: 150px;
     height: auto;
     border-radius:3px;
 }
@@ -225,7 +225,7 @@ a:hover {
 
 .logo-01 {
   position: absolute;
-  max-width: 50px;
+  max-width: 150px;
     height: auto;
     border-radius:3px;
   font-size: 25px;
